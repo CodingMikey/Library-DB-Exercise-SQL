@@ -1,4 +1,7 @@
 # Library DataBase Exercise
+
+<a href="http://fvcproductions.com"><img src="https://github.com/CodingMikey/Library-DB-Exercise-SQL/blob/master/dbLibrarySchema.png" title="Library Schema" alt="Schema"></a>
+
 ## Create Data Base W/ Following Conditions:
 
 1. There is a book called 'The Lost Tribe' found in the 'Sharpstown' branch.
